@@ -1,5 +1,7 @@
 <Alloy>
 	<Window>
 		<Button id="btnClose">Close Windows</Button>
+		<Button id="btnAbrir">Abrir Ventana</Button>
+
 	</Window>
 </Alloy>

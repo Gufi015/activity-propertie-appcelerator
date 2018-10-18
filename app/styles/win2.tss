@@ -1,3 +1,4 @@
 "#activityIndicator":{
 	font: {fontFamily:'sans-serif', fontSize:45},
+	style: Ti.UI.ActivityIndicatorStyle.BIG
 }

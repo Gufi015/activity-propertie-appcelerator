@@ -58,3 +58,34 @@ Ti.App.addEventListener('win', function(e) {
 	}, 1500);
 
 });
+
+
+$.btnAbrir.addEventListener('click', function(e){
+	var demoView = Alloy.createController('demoView').getView();
+	demoView.open();
+});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

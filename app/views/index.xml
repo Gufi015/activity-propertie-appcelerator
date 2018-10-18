@@ -1,7 +1,7 @@
 <Alloy>
 	<Window onOpen="openWin2"  backgroundColor="white">
 		
-		<TextField id="campoTexto" top="10%" width="85%" height="10%" color="black" borderColor="red"></TextField>
+		<TextField id="campoTexto" top="10%" width="85%" height="10%" color="black" borderColor="red" borderStyle="Titanium.UI.INPUT_BORDERSTYLE_NONE"></TextField>
 		<TextField id="campoTexto1" top="20%" width="85%" height="10%" color="black" borderColor="blue"></TextField>
 		<TextField id="campoTexto2" top="30%" width="85%" height="10%" color="black" borderColor="green"></TextField>
 		<TextField id="campoTexto3" top="40%" width="85%" height="10%" color="black" borderColor="gray"></TextField>
