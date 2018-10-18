@@ -12,13 +12,13 @@
         <Button class="changeTintColorButton actionButton" platform="android" onClick="changeTintColor" title="Change spinner to random color" />
     </Window> -->
      <Window title="Text Field">
-        <ScrollView id="textfieldsContainer" onClick="blurTextfield">
+        <ScrollView id="textfieldsContainer" >
             <Label class="textLabel">Demonstration of multiple keyboard types</Label>
             
-            <TextField class="textfield" id="regularTextfield" onChange="textFieldValueChanged" onFocus="textFieldFocussed" onBlur="textFieldBlurred" />
-            <TextField class="textfield" id="phoneTextfield" onChange="textFieldValueChanged" onFocus="textFieldFocussed" onBlur="textFieldBlurred" />
-            <TextField class="textfield" id="emailTextfield" onChange="textFieldValueChanged" onFocus="textFieldFocussed" onBlur="textFieldBlurred" />
-            <TextField class="textfield" id="passwordTextfield" onChange="textFieldValueChanged" onFocus="textFieldFocussed" onBlur="textFieldBlurred" />
+            <TextField class="textfield" id="regularTextfield"  />
+            <TextField class="textfield" id="phoneTextfield" />
+            <TextField class="textfield" id="emailTextfield"  />
+            <TextField class="textfield" id="passwordTextfield"/>
             
             <Label class="textLabel" platform="ios">
                 You can drag down the keyboard when its visible and the view is scrollable. This is thanks to the keyboardDismissMode property on the wrapping ScrollView
