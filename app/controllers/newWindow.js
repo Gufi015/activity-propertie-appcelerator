@@ -36,12 +36,13 @@ var label1 = Ti.UI.createLabel({
 	width : '70%',
 	height : '10%',
 	color : 'white',
-	top : 0,
+	top : '10%',
 	borderColor : 'red',
 	textAlign : Ti.UI.TEXT_ALIGNMENT_CENTER,
 });
 
-$.newWindow.add(label,label1);
+$.newWindow.add(label);
+$.newWindow.add(label1);
 //abrir ventana
 $.btnClose.addEventListener('click', function(e) {
 	$.newWindow.close();

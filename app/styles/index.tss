@@ -10,29 +10,29 @@
 }
 
 ".btn1":{
-	top:"20%",
+	top:"60%",
 	height: 50,
 	width: '80%',
 	borderColor: 'blue',
 }
 
-".btn2":{
-	top:"30%",
-	height: 50,
-	width: '80%',
-	borderColor: 'blue',
-}
+// ".btn2":{
+	// top:"30%",
+	// height: 50,
+	// width: '80%',
+	// borderColor: 'blue',
+// }
 
 ".btn3":{
-	top:"40%",
+	top:"70%",
 	height: 50,
 	width: '80%',
 	borderColor: 'blue',
 }
 
-".btn4":{
-	top:"50%",
-	height: 50,
-	width: '80%',
-	borderColor: 'blue',
-}
+// ".btn4":{
+	// top:"50%",
+	// height: 50,
+	// width: '80%',
+	// borderColor: 'blue',
+// }
