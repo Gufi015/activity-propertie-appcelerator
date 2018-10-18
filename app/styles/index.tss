@@ -1,0 +1,38 @@
+".container": {
+	backgroundColor:"white",
+	layout: 'vertical',
+}
+
+"Label": {
+	width: Ti.UI.SIZE,
+	height: Ti.UI.SIZE,
+	color: "#000"
+}
+
+".btn1":{
+	top:"20%",
+	height: 50,
+	width: '80%',
+	borderColor: 'blue',
+}
+
+".btn2":{
+	top:"30%",
+	height: 50,
+	width: '80%',
+	borderColor: 'blue',
+}
+
+".btn3":{
+	top:"40%",
+	height: 50,
+	width: '80%',
+	borderColor: 'blue',
+}
+
+".btn4":{
+	top:"50%",
+	height: 50,
+	width: '80%',
+	borderColor: 'blue',
+}

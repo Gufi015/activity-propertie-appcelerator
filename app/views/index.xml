@@ -1,0 +1,16 @@
+<Alloy>
+	<Window onOpen="openWin2"  backgroundColor="white">
+		
+		<TextField id="campoTexto" top="20" width="200" height="50" color="black" borderColor="red"></TextField>
+		<TextField id="campoTexto1" top="25" width="200" height="50" color="black" borderColor="red"></TextField>
+		<TextField id="campoTexto2" top="30" width="200" height="50" color="black" borderColor="red"></TextField>
+		<TextField id="campoTexto3" top="35" width="200" height="50" color="black" borderColor="red"></TextField>
+		
+		<Button class="btn1" id="btnNewWindow">New Windows</Button>
+		<Button class="btn3"  id="btnProperties">Properties</Button>
+		<!-- <Button class="btn2"  id="btnArgs">Arguments</Button>
+		<Button class="btn3"  id="btnProperties">Properties</Button>
+		<Button class="btn4"  id="btnFireEvents">Fire Event</Button>			 -->
+	</Window>
+</Alloy>
+

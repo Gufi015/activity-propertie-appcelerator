@@ -1,0 +1,5 @@
+<Alloy>
+	<Window class="container" onOpen="showIndicator" backgroundColor="black">
+        <ActivityIndicator  id="activityIndicator" message="Loading..."/>
+    </Window>
+</Alloy>
